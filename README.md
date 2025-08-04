@@ -1,12 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ayush Sinha</h1>
+![logo](https://github.com/TVATDCI/TVATDCI/blob/main/assets/wave-up.svg)
+
+---
+<h1 align="center"> I'm Ayush Sinha</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="Coding GIF"/>
+</div>
+
+
 <h3 align="center">🚀 A third-year Computer Science student at Siksha ‘O’ Anusandhan University, passionate about building AI solutions for real-world challenges</h3>
+
 
 ---
 
 - 🌱 Currently diving deep into **Machine Learning** and **Artificial Intelligence**
 - 💬 Ask me about **Python, ML algorithms, or full-stack basics**
 - 📫 Reach me at: **ayushsinha5571@gmail.com**
-- ⚡ Fun fact: **CGPA ≠ Intelligence (It’s just a number 😉)**
+
+
 
 ---
 
@@ -49,4 +59,23 @@
 
 ---
 
-<h3 align="center">Let's build something meaningful with AI 🧠✨</h3>
+<h3 align="center">Let's build something meaningful with AI 🧠✨</h3
+
+---
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+---
